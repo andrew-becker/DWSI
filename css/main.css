@@ -1,0 +1,1 @@
+body{	/*HSLA color*/	background-color: hsla(0,100%,100%,0.3);	}h1, h2{	/*Color name*/	color: Yellow;	/*hex color*/	background-color: #9D3ED5;	/*opacity*/	opacity: .9;}p{	/*rgb color*/	color: rgb(0,100,0);}	
